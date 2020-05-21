@@ -4,6 +4,13 @@ This source code is part of [Building Spring Boot, MongoDB and React.js CRUD Web
 
 To run locally:
 * Run MongoDB server
+  ## brew services start mongodb-community
 * Clone this repository
 * From frontend directory, run `npm install` and `npm run build`
 * From root directory, run `./gradlew bootRun`
+
+
+
+To run locally:
+  ## gradle  build
+  ## java -jar spring-boot-mongodb-react-java-crud-0.0.1-SNAPSHOT.jar
